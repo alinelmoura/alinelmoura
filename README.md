@@ -9,7 +9,7 @@ No trabalho, transformo dados de clientes em decisões: análise de NPS e experi
 | Projeto | O que é | Stack |
 |---|---|---|
 | [Classificação com Modelo de Decisão Local](https://github.com/alinelmoura/strands-decider-classificacao) | Classificação hierárquica de comentários de clientes (macro → sub, sentimento) com um modelo de 2B rodando localmente, com análise de calibração para um sistema híbrido com LLM | Python, Strands Decider, pandas |
-| [Análise de Sentimentos em E-commerce](https://github.com/alinelmoura/Projeto-Final-IA) | Comparação de TF-IDF + SVM, LSTM e BERTimbau em 130 mil avaliações em português, com testes estatísticos entre os modelos | Python, scikit-learn, Keras, Hugging Face |
+| [Análise de Sentimentos em E-commerce](https://github.com/alinelmoura/analise-sentimentos-ecommerce) | Comparação de TF-IDF + SVM, LSTM e BERTimbau em 130 mil avaliações em português, com testes estatísticos entre os modelos | Python, scikit-learn, Keras, Hugging Face |
 | [Validação e Verificação de Software](https://github.com/alinelmoura/UC-Valida-o-e-Verifica-o-de-Software) | Testes unitários, cobertura e teste de mutação aplicados a validadores e processamento de pagamento | Python, pytest, Cosmic Ray |
 | [Monitoramento de Enchentes em MIPS](https://github.com/alinelmoura/Projeto_MIPS-AOC) | Simulador de sistema embarcado com máquina de estados e média móvel em vetor circular | Assembly MIPS |
 | [Computação Gráfica](https://github.com/alinelmoura/Computacao-Grafica) | Robô humanoide articulado, curvas de Bézier, texturas e câmeras | C, OpenGL/GLUT |
